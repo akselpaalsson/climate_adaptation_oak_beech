@@ -134,5 +134,5 @@ beech_lfmm_climate <- merge(
 
 write.csv(
   beech_lfmm_climate,
-  file = file.path(climate_dir, "prepped_beech_evis_climate_data_correct_091224.csv")
+  file = file.path(climate_dir, "prepped_beech_climate_data_correct_091224.csv")
 )
