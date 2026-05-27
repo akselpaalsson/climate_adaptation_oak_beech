@@ -1,10 +1,3 @@
-# -----------------------------------------------------------------------------
-# Oak LFMM analyses and selected Manhattan plots
-#
-# This script combines the original oak LFMM analysis workflow and the selected
-# Manhattan plotting workflow. The LFMM analyses are run first; the selected
-# Manhattan plots are generated at the end from the K = 4 LFMM output files.
-# -----------------------------------------------------------------------------
 
 rm(list = ls())
 gc()
