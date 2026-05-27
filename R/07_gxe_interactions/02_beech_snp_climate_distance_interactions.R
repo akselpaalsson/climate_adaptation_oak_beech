@@ -1,13 +1,3 @@
-# -----------------------------------------------------------------------------
-# Beech SNP-by-climate-distance interaction analyses
-#
-# This script combines and cleans the two original beech analyses:
-#   1. SNP × precipitation-distance models with temperature distance as covariate
-#   2. SNP × temperature-distance models with precipitation distance as covariate
-#
-# For each analysis it runs the same 11 trait blocks as the original scripts and
-# writes the same output CSV files.
-# -----------------------------------------------------------------------------
 
 rm(list = ls())
 gc()
