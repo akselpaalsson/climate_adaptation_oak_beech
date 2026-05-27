@@ -114,8 +114,6 @@ dat.path <- "../data/"
 setwd("/path/to/working_directory")
 assignments<-read.table("populations_no277.snps_minDP3_meanDP10_maxDP80_NA0.90_reduced_HWE0.0001.MAF0.01.thin1kb.snps_r1.3.Q",  sep="", header=FALSE)
 
-setwd("/Users/kaffemobil/Desktop/WSL_040424/Aksel/pop_gen_analyses_040424/scrp_ap/")
-
 #### Set the working directory ####
 setwd(dir.path)
 getwd()
